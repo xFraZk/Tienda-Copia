@@ -1,0 +1,1 @@
+<svg class="{{ svg_custom_class }}" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M320,266.67H170.67V416H149.33V266.67H0V245.33H149.33V96h21.34V245.33H320Z"/></svg>
